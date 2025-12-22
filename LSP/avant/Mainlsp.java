@@ -1,6 +1,6 @@
 package lsp.avant;
 
-public class Main {
+public class Mainlsp {
     public static void main(String[] args) {
         System.out.println("=== VIOLATION LSP (Square extends Rectangle) ===");
         
