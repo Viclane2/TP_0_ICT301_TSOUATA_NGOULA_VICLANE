@@ -1,4 +1,4 @@
-package ict301.solid.ocp;
+package ocp.avant;
 
 public class AreaCalculator {
 
